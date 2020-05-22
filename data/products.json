@@ -1,1 +1,16 @@
-[{"title":"A Car","imageUrl":"https://www.motortrend.com/uploads/sites/5/2019/07/2020-Chevrolet-Corvette-front-three-quarter-1.jpg","description":"A great car","price":"80000.00"}]
+[
+  {
+    "id": "123456",
+    "title": "A Car",
+    "imageUrl": "https://www.motortrend.com/uploads/sites/5/2019/07/2020-Chevrolet-Corvette-front-three-quarter-1.jpg",
+    "description": "A great car",
+    "price": "80000.00"
+  },
+  {
+    "title": "Pen",
+    "imageUrl": "https://images.freeimages.com/images/large-previews/960/pen-1239384.jpg",
+    "description": "A great pen!",
+    "price": "100",
+    "id": "0.6518525068747842"
+  }
+]
